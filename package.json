@@ -1,0 +1,19 @@
+{
+  "name": "simple-browser-clipboard",
+  "version": "0.0.0",
+  "description": "A small typescript/javascript library which uses `window.navigator.clipboard` where it's supported and `document.execCommand('copy')` as fallback",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjesuiter/simple-browser-clipboard.git"
+  },
+  "author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjesuiter/simple-browser-clipboard/issues"
+  },
+  "homepage": "https://github.com/bjesuiter/simple-browser-clipboard#readme"
+}
